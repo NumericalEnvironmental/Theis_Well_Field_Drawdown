@@ -1,4 +1,7 @@
 # Theis_Well_Field_Drawdown
+
+![Preview](https://numericalenvironmental.files.wordpress.com/2017/02/drawdown.jpg?w=816)
+
 This python script uses scipy functionality (special function + spatial classes) to calculate the drawdown associated with a pumping well field according to the Theis equation. It serves as a simple demo as to how to rapidly process analytical solutions for groundwater flow over a grid. Superposition of the drawdown field onto the interpolated groundwater potentiometric surface can provide insights into the possible impact of well field operation on groundwater flow without having to resort to a more complex numerical model to address larger-scale boundary conditions, property heterogeneities, etc./
 
 
