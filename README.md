@@ -7,7 +7,7 @@ The following tab-delimited input files are required:
 * params.txt - basic model properties (aquifer characteristics, gridding)
 * wells.txt - well locations and pumping rates
 
-More background information can be found here: (link coming soon)
+More background information can be found here: https://numericalenvironmental.wordpress.com/2017/02/06/rapid-computation-of-groundwater-drawdown-in-a-well-field-via-theis-solution-implemented-with-python-scipy/
 
 Email me with questions at walt.mcnab@gmail.com. 
 
